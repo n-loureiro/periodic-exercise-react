@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/periodic-exercise-react/static/css/main.e6c13ad2.css",
+    "main.js": "/periodic-exercise-react/static/js/main.e5b7d48b.js",
+    "static/js/453.00c1aa30.chunk.js": "/periodic-exercise-react/static/js/453.00c1aa30.chunk.js",
+    "index.html": "/periodic-exercise-react/index.html",
+    "main.e6c13ad2.css.map": "/periodic-exercise-react/static/css/main.e6c13ad2.css.map",
+    "main.e5b7d48b.js.map": "/periodic-exercise-react/static/js/main.e5b7d48b.js.map",
+    "453.00c1aa30.chunk.js.map": "/periodic-exercise-react/static/js/453.00c1aa30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e5b7d48b.js"
+  ]
+}
