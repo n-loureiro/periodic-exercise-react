@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/periodic-exercise-react/static/css/main.e6c13ad2.css",
-    "main.js": "/periodic-exercise-react/static/js/main.e5b7d48b.js",
+    "main.css": "/periodic-exercise-react/static/css/main.fc2c314a.css",
+    "main.js": "/periodic-exercise-react/static/js/main.2aea2c1e.js",
     "static/js/453.00c1aa30.chunk.js": "/periodic-exercise-react/static/js/453.00c1aa30.chunk.js",
     "index.html": "/periodic-exercise-react/index.html",
-    "main.e6c13ad2.css.map": "/periodic-exercise-react/static/css/main.e6c13ad2.css.map",
-    "main.e5b7d48b.js.map": "/periodic-exercise-react/static/js/main.e5b7d48b.js.map",
+    "main.fc2c314a.css.map": "/periodic-exercise-react/static/css/main.fc2c314a.css.map",
+    "main.2aea2c1e.js.map": "/periodic-exercise-react/static/js/main.2aea2c1e.js.map",
     "453.00c1aa30.chunk.js.map": "/periodic-exercise-react/static/js/453.00c1aa30.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.e5b7d48b.js"
+    "static/css/main.fc2c314a.css",
+    "static/js/main.2aea2c1e.js"
   ]
 }
